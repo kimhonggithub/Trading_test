@@ -1,5 +1,5 @@
 streamlit==1.53.0
-pandas==3.0.0
+pandas>=1.4.0
 plotly==6.5.2
 python-binance==1.0.34
 scikit-learn==1.8.0
